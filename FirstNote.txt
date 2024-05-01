@@ -1,0 +1,1 @@
+This is update to the final version of the app Mythical Creatures. This project will contain the code for the Keras model and the java made app. However, due to unforseen circumstances, the original database was lost, and it will contain only a portion of it. I truly apologize for the circumstances.

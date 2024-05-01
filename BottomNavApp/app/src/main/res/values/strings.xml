@@ -1,0 +1,52 @@
+<resources>
+
+    <string-array name="creatures_list">
+        <item >Minotaur</item>
+        <item>Meduza</item>
+        <item>Centaur</item>
+        <item>Pegasus</item>
+        <item>Ciclop</item>
+        <item>Mermaid</item>
+        <item>Cerberus</item>
+        <item>Hydra</item>
+        <item>Dragon</item>
+    </string-array>
+
+
+    <string name="app_name">Creatures of Mythology</string>
+<!--    &lt;!&ndash; TODO: Remove or change this placeholder text &ndash;&gt;-->
+<!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+    <string name="first_Fragment_Body">Here, at Creature of Mythology we want to awaken younger and older generations curiosity towards the history and mythology of
+        different ancient civilization. With this app, the veil of mystery that covers the dangers and blessings of the ancient world will dissapear. I
+        hope to make the users interested in the stories of the past that used to explain the old world. Use your camera to catch a photo of the
+        creature you want to learn more or look around in the library to see more. </string>
+    <string name="mino_Body">The minotaur is a monster originated in the Minoan culture in the island of Crete. He is associated with the crete labyrith.
+        He was the son of o mortal woman, queen of Crete, and a divine bull send by Poseidon as a gift. He was eating human flesh and the king locked it
+        a very complicated labyrinth created by Daidalus. For its food the minoan king demanded a human sacrifice of 14 young Athenians each year. In one
+        of such sacrifices was the hero Theseus. The young man, with the help of princess Ariadne, manages to decapited the monster.</string>
+    <string name="med_Body">Medusa is one of the tree sisters gorgons and is the only one mortal. Her appearence is of a woman with snake hair and
+        lower body of a snake. That is the older version of the story. In a newer version medusa is a mortal woman, who after an adventure with
+        Poseidon in Athena\'s temple, was cursed by the goddess with having snake hair and looking in her eyes can petrify anyone. Her head severed still
+        had the power to petrify and after the hero Perseus cut her head, used as a weapon. From her severed head 2 creatures appeared, Chrysaor and Pegasus.</string>
+    <string name="cen_Body">Centaur were creatures that run through the woods. Having the appearance of a man with lower body of a horse, they were a tribe
+    that lived near Tesalia region. After their barbaric behavior at Iapis\'s king, Piritou, wedding there have been many fights between humans and centaur.
+    They were a symbol of wild unruly and violent behaviour, the most well known centaur is Chiron, who lacked in this traits and served as mentor figure
+        for many heroes.</string>
+    <string name="peg_Body">Pegasus is a horse usually depicted withe with wings. One myth says about him that he was born out of Medusa decapited
+        head, while others related about his birth that was related to the Athens fundation myth. In which Poseidon and Athena fought to win the
+    title of guarding deity. Poseidon offers the pegasus (creared by him) and the chariot and Athena offers the olive tree and knowledge about
+    agriculture. </string>
+    <string name="cer_Body">Cerberus is the guarding dog from Underworld entrance, greek afterlife. It was pictured as a very big dog with three heads
+        and the tail was a fire breathing snake. It\'s the offspring of the Echidna and Typhon. One of the most known aparitions it had
+        was in the Labors of Hercules, where the hero was tasked to get Cerberus to a King Eurystheus. Hades agreed to this only if Hercule managed to take
+        Cerberus without hurting him. And Hercule lifted it up. </string>
+    <string name="hdr_Body">Hydra, or Hydra of Lerna, was a monster that theorize the people near the lake of Lerna. It was another of the children of Echidna
+    and Typhon and it had the body of a snake with 9 heads, one of which was immortal. Her breath was toxic and blood a very potent poison and cutting one of her
+    heads did nothing since cutting one made 2 more to grow from that place. The monster was slain by Heracles in one of his 12 labours. He used the monster\'s
+    blood on the tips of his arrows to make them lethal. One legend has it that the city Baile Herculane was involved in the story, the monuntains around them
+    being created in the desperate attends of the monster to flee and the immortal head of the monster being buried underneath the city.</string>
+    <string name="drg_Body">The Dragon is one of the oldest symbols of power and wealth and it\'s the ancient creature to be present in different cultures that
+    did not communicate with each other. He is slightly different in appearance around the globe, in Asian cultures being more similar with a giant snake with legs that could
+    fly while European had the more known image of a big 4 legged creature with wings which often spits fire and gourds treasure. It goes to have many names and
+    subspicies but one key aspect remain in all variations, that was to be respected and feared by the humans. </string>
+</resources>

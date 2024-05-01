@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.25625" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/drawable/buttons_round_corner.xml" value="0.3828125" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/drawable/ic_home.xml" value="0.25625" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/drawable/ic_image_search.xml" value="0.25625" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.25625" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/drawable/ic_menu_book.xml" value="0.25625" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/drawable/round_corner_view.xml" value="0.3828125" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/drawable/searchbar_round.xml" value="0.165625" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/drawable/top_round_corners_act.xml" value="0.25885416666666666" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/layout/centaur_frag.xml" value="0.2359375" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/layout/cerberus_frag.xml" value="0.36666666666666664" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/layout/dragon_frag.xml" value="0.36666666666666664" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/layout/fragment_first.xml" value="0.22" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/layout/fragment_second.xml" value="0.2" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/layout/fragment_third.xml" value="0.16" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/layout/hidra_frag.xml" value="0.36666666666666664" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/layout/medusa_frag.xml" value="0.2359375" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/layout/minotaur_frag.xml" value="0.23072916666666668" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/layout/pegasus_frag.xml" value="0.2359375" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/layout/recycle_view_row.xml" value="0.36666666666666664" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/menu/bottom_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.25885416666666666" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.25885416666666666" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/mipmap-anydpi-v26/ic_launcherscroll.xml" value="0.19270833333333334" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/mipmap-anydpi-v26/ic_launcherscroll_foreground.xml" value="0.25885416666666666" />
+        <entry key="..\:/Facultate/Anu III/sem1/DAM/BottomNavApp/app/src/main/res/mipmap-anydpi-v26/ic_launcherscroll_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
